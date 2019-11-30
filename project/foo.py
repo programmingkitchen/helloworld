@@ -1,3 +1,0 @@
-Blueprints
-
-Just a test
